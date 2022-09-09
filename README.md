@@ -9,7 +9,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Romi-776&color=blue"/>
 
 👨🏻‍💻 &nbsp;The name's **Parminder Singh**.\
-🎓 &nbsp;Currently, 3rd year CSE student at Chandigarh University.\
+🎓 &nbsp;Currently, 4th year CSE student at Chandigarh University.\
 👔 &nbsp;Interned as a Web Developer at FarziEngineer.\
 💡 &nbsp;I am a Competitive Programmer and Backend Developer.\
 🔢 &nbsp;Solved over 600 problems and taken part in 35+ contests on different online judges.\
